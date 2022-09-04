@@ -2,3 +2,4 @@ This is Context
 Dev Galib
 userL: cleverfoxsixtynine
 creat 2022
+logo alingment is centered
